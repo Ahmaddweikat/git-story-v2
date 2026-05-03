@@ -4,3 +4,4 @@ He had one dream - to explore the mysterious world of Version Control.
 New Line 1.
 New Line 2.
 New Line 3.
+Git was eager to explore new places.
